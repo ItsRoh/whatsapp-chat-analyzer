@@ -4,3 +4,4 @@ pandas
 numpy
 wordcloud
 emoji
+urlextract
